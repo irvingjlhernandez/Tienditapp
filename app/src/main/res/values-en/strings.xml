@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="errorc">A connection error has occurred.</string>
+    <string name="envio">Free</string>
+    <string name="proveedor">From:</string>
+    <string name="add">Add to cart.</string>
+    <string name="carga">Loading...</string>
+    <string name="bienve">Welcome.</string>
+    <string name="cuenta">Your account is:</string>
+</resources>

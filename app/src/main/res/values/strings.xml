@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Safari Sales</string>
+    <string name="url_base" translatable="false">https://www.serverbpw.com/cm/2020-2/products.php</string>
+    <string name="url_desc" translatable="false">https://www.serverbpw.com/cm/2020-2/product_detail.php?id=</string>
+    <string name="errorc">Ha ocurrido un error de conexion.</string>
+    <string name="envio">Gratis</string>
+    <string name="moneda" translatable="false">$</string>
+    <string name="proveedor">De:</string>
+    <string name="add">Agregar al carrito.</string>
+    <string name="carga">Cargando...</string>
+    <string name="bienve">Bienvenido.</string>
+    <string name="cuenta">Su cuenta es de:</string>
+</resources>
